@@ -17,4 +17,4 @@ venv/
 Thumbs.db
 
 # Secrets
-.env
+.envtest.py
