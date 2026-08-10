@@ -1,0 +1,19 @@
+# Run pip upgrade separately if needed:
+# python -m pip install --upgrade pip
+
+requests
+pydantic
+langchain
+langchain-community
+langchain-aws
+langgraph-checkpoint-sqlite
+langgraph
+langgraph-checkpoint
+faiss-cpu
+chromadb
+pypdf
+pymupdf
+pdfminer.six
+unstructured
+lxml
+python-dotenv
