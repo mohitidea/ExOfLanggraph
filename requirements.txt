@@ -17,3 +17,4 @@ pdfminer.six
 unstructured
 lxml
 python-dotenv
+ipython
