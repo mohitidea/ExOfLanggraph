@@ -18,3 +18,4 @@ unstructured
 lxml
 python-dotenv
 ipython
+langchain-experimental
