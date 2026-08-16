@@ -19,3 +19,4 @@ lxml
 python-dotenv
 ipython
 langchain-experimental
+streamlit
